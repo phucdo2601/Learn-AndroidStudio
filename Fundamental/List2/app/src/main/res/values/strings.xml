@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">List2</string>
+    <string-array name="students">
+        <item>Phuc Do</item>
+        <item>Le Vinh</item>
+        <item>Hoang Thai</item>
+        <item>Khanh Tram</item>
+        <item>Phuoc Duy</item>
+        <item>Huu Toan</item>
+    </string-array>
+</resources>
