@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_editor_absoluteX="65dp"
+        app:layout_editor_absoluteY="16dp"
+        >
+
+        <TextView
+            android:id="@+id/ProductId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:textColor="#00bfff"
+            android:textSize="22sp"
+            />
+
+        <TextView
+            android:id="@+id/IName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/ProductId"
+            android:fontFamily="serif"
+            android:textColor="#00bfff"
+            android:textSize="22sp"
+            />
+
+        <TextView
+            android:id="@+id/Des"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/IName"
+            android:layout_toRightOf="@+id/ProductId"
+            />
+
+        <TextView
+            android:id="@+id/Col"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Des"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="411dp"
+            android:layout_marginRight="411dp"
+            android:layout_toRightOf="@+id/ProductId"
+            />
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
