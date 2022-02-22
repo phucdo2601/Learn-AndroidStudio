@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050002823370",
+    "project_id": "learnuploadvideotofirebaseb1",
+    "storage_bucket": "learnuploadvideotofirebaseb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050002823370:android:f80ece208d3474db203c33",
+        "android_client_info": {
+          "package_name": "com.example.learnuploadvideotofirebaseb1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050002823370-qmrc71qmevh2rjd8jg1hmgn9gukbgla0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EX_wWJAeifiM2l7nVTRyO8DGdcd5V90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050002823370-qmrc71qmevh2rjd8jg1hmgn9gukbgla0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
