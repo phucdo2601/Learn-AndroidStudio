@@ -25,8 +25,8 @@ fun main() {
     println("Short max value: $shortMaxValue")
 
     // long type:
-    var longMaxValue : Long = Long.MAX_VALUE;
-    var longMinValue : Long = Long.MIN_VALUE;
+    var longMaxValue : Long = Long.MAX_VALUE
+    var longMinValue : Long = Long.MIN_VALUE
     println("Long min value: $longMinValue")
     println("Long max value: $longMaxValue")
 }
